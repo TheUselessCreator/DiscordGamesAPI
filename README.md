@@ -14,7 +14,8 @@ Follow these steps to set up the bot on your machine:
 
 ### 1. Clone the Repository
 
-```GO to https://github.com/TheUselessCreator/DiscordGamesAPI and fork it.
+```
+Go to https://github.com/TheUselessCreator/DiscordGamesAPI and fork it.
 ```
 
 ### 2. Install Dependencies
