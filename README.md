@@ -14,9 +14,7 @@ Follow these steps to set up the bot on your machine:
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/discord-random-link-bot.git
-cd discord-random-link-bot
+```GO to https://github.com/TheUselessCreator/DiscordGamesAPI and fork it.
 ```
 
 ### 2. Install Dependencies
